@@ -1,4 +1,4 @@
-# CIAM System Atlas Data
+# Eye-Net Daten
 
 Maschinell erzeugte, öffentliche Datenquelle für [Eye-Net](https://ciam.archivalia.ch).
 
